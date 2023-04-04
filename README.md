@@ -5,13 +5,13 @@
 This online Retail II data set contains all the transactions occurring for a UK-based and registered, non store online retail between 1/12/2009 and 09/12/2011. The company mainly sells unique all-occasion gift-wave. Many customers of the company are wholesalers.
 
 ## Online Retail Analysis Dashboard
-<img src="./Image/online-retail-sales-dashboard.png">
+<img src="./Image/online-retail-dashboard.png">
 
 In this project, I use Microsoft Excel for analytics and visualization purposes. The dataset I am working with is from the University of Irvine Machine Learning Repository. Additionally, you can access a multitude of datasets from this particular UCI repository.
 
 ## Recommendation:
 
-Based on the analysis, the top selling products are 
+Based on the analysis, the top selling products from 2010-2011 are 
 1. Jumbo Bag Red Retrospot
 2. Assorted Color Bird Ornament
 3. Pack of 72 Retrospot Cake Cases
